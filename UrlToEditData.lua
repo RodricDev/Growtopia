@@ -5,3 +5,6 @@ JamTidur = {
 }
 DelayTidur = 60
 nextrandom = false
+
+delaypnb = 260 -- DELAY PNB
+delayplace = 260 -- DELAY PLACE
