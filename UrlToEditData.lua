@@ -1,5 +1,7 @@
-Istirahat = false
+Istirahat = true
 JamTidur = {
-    "01:00"
+    "00:00"
 }
 DelayTidur = 120
+
+delayworld = 60000 -- DELAY MASUK DOOR
