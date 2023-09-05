@@ -3,4 +3,4 @@ JamTidur = {
     "12:00",
     "00:00"
 }
-DelayTidur = 180
+DelayTidur = 120
