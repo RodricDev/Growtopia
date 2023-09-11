@@ -1,9 +1,6 @@
-Istirahat = false
+Istirahat = true
 JamTidur = {
-    "12:00",
-    "16:00",
-    "02:00",
-    "04:00"
+    "00:00"
 }
 DelayTidur = 60
 
