@@ -6,3 +6,5 @@ JamTidur = {
     "04:00"
 }
 DelayTidur = 60
+
+Turu = false
