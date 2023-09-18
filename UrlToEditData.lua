@@ -1,4 +1,4 @@
-Istirahat = true
+Istirahat = false
 JamTidur = {
     "00:00",
     "04:00"
