@@ -5,5 +5,5 @@ JamTidur = {
 }
 DelayTidur = 60
 
---hargapack = 2000 -- HARGA PACK
---namapack = "world_lock" -- NAMA PACK
+hargapack = 2000 -- HARGA PACK
+namapack = "world_lock" -- NAMA PACK
