@@ -1,0 +1,3 @@
+DatabaseList = {
+    {Growid = "Rodric", Hwid = ""}
+}
