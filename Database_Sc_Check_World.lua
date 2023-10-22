@@ -1,3 +1,0 @@
-DatabaseList = {
-    {Growid = "Rodric", Hwid = ""}
-}
