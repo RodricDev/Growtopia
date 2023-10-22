@@ -13,4 +13,5 @@ ItemsEmoji = {
   {name = "Cobweb", id = 1238, emoji = "<:Cobweb:1165517619974131865>"},
   {name = "Hellgate", id = 3116, emoji = "<:Hellgate:1165517833413853215>"},
   {name = "Spooky Box", id = 10324, emoji = "<:SpookyBox:1165517081601658880>"},
+  {name = "Chandelier", id = 340, emoji = "<:Chandelier:1165559537806360576>"},
 }
