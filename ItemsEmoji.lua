@@ -1,1 +1,16 @@
-
+ItemsEmoji = {
+  {name = "Ripper Wings", id = 818, emoji = "<:RipperWings:1165514881701777480>"},
+  {name = "Pumpkin Candy", id = 5256, emoji = "<:PumpkinCandy:1165514014600745091>"},
+  {name = "Sigil Of K'Tesh", id = 1220, emoji = "<:SigilOfKTesh:1165515129903927336>"},
+  {name = "Cultist Hood", id = 1216, emoji = "<:CultistHood:1165515629290323998>"},
+  {name = "Eldritch Flame", id = 3102, emoji = "<:EldritchFlame:1165516032325197924>"},
+  {name = "Pumpkin Block", id = 1198, emoji = "<:PumpkinBlock:1165516249434968064>"},
+  {name = "Twisted Mansion Door", id = 10202, emoji = "<:TwistedMansionDoor:1165516520386990120>"},
+  {name = "Crystal Ball Buddy", id = 12784, emoji = "<:CrystalBallBuddy:1165516753388961802>"},
+  {name = "Spooky Rags", id = 10322, emoji = "<:SpookyRags:1165517058671378483>"},
+  {name = "Cultist Robe", id = 1218, emoji = "<:CultistRobe:1165515647401349180>"},
+  {name = "Emo Hair", id = 11340, emoji = "<:EmoHair:1165517439677759519>"},
+  {name = "Cobweb", id = 1238, emoji = "<:Cobweb:1165517619974131865>"},
+  {name = "Hellgate", id = 3116, emoji = "<:Hellgate:1165517833413853215>"},
+  {name = "Spooky Box", id = 10324, emoji = "<:SpookyBox:1165517081601658880>"},
+}
