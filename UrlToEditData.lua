@@ -1,6 +1,1 @@
-Istirahat = false
-JamTidur = {
-    "00:00",
-    "04:00"
-}
-DelayTidur = 60
+nextrandom = false --UBAH JADI FALSE JIKA GAMAU JOIN RANDOM WORLD SEBELUM NEXT WORLD
