@@ -6,7 +6,7 @@ packPrice = 2000 -- Pack price
 packLimit = 200 -- Limit of buying pack before bp full
 
 nextrandom = true
-delayHarvest = 165 -- Harvesting delay
-delayPlant = 165 -- Planting delay
-delayPunch = 165 -- Punching delay
-delayPlace = 165 -- Placing delay
+delayHarvest = 120 -- Harvesting delay
+delayPlant = 100 -- Planting delay
+delayPunch = 160 -- Punching delay
+delayPlace = 110 -- Placing delay
