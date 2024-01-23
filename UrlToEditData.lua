@@ -1,2 +1,1 @@
-nextrandom = true
-MinBW = 9999
+nextrandom = false
