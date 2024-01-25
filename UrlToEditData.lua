@@ -1,2 +1,2 @@
 nextrandom = false
-MinItemPack = 1
+DelayRecon = 3 * 60000 --JEDA RECONNECT
