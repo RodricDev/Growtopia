@@ -1,2 +1,2 @@
-nextrandom = true
-DelayRecon = 3 * 60000 --JEDA RECONNECT
+nextrandom = false
+DelayRecon = 4 * 60000 --JEDA RECONNECT
