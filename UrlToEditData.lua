@@ -3,3 +3,4 @@ namapack = "valentines" -- NAMA PACK
 MinItemPack = 10 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
 maxbuy = 5 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA 
 iditempack = {3402}
+DelayRecon = 15000 --JEDA RECONNECT
