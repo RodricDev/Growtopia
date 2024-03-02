@@ -1,1 +1,1 @@
-JedaHW = 3
+DelayRecon = 30000 --JEDA RECONNECT
