@@ -1,1 +1,10 @@
-
+-- EMOTICON SETTINGS
+emot_bot = "<:Bot:1179104181236285541>"
+emot_gems = "<:gemz:1038591118331359343>"
+emot_pack = "<:world_lock:1213773089154928710>"
+emot_world = "<a:arrowz:1038444769141063850>"
+emot_pickaxe = ":hammer_pick:"
+emot_wl = "<:world_lock:1213773089154928710>"
+emot_rank = ":medal:"
+emot_tas = ":school_satchel:"
+emot_computer = ":computer:"
