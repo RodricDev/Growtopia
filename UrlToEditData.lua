@@ -1,1 +1,1 @@
-
+DelayRecon = 15000 --JEDA RECONNECT
