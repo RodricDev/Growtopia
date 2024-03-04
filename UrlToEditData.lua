@@ -1,1 +1,1 @@
-
+PerSeedBotCount = 1
